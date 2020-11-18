@@ -1,5 +1,5 @@
 # Portfolio
-A beautiful, feature rich, device friendly portfolio.  
+Old version of webiste Nov 18,2020
 https://yellowbunnystudio.github.io/
 
 # About Me
